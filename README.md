@@ -38,7 +38,7 @@ This project is a simple command-line implementation of the classic game Rock, P
    Change into the project directory:
 
    ```bash
-   cd rock-paper-scissors
+   cd Generative-AI-DSF_FlexiSAF
    ```
 
 3. **Run the Game**
@@ -46,7 +46,7 @@ This project is a simple command-line implementation of the classic game Rock, P
    Execute the Python script to start the game:
 
    ```bash
-   python rock_paper_scissors.py
+   python main.py
    ```
 
 4. **Play the Game**
