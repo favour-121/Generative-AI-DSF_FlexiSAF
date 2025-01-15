@@ -56,7 +56,7 @@ This project is a simple command-line implementation of the classic game Rock, P
 ## Example Usage
 
 ```bash
-$ python rock_paper_scissors.py
+$ python main.py
 Enter your choice (rock, paper, or scissors): rock
 Computer chose: scissors
 You win!
